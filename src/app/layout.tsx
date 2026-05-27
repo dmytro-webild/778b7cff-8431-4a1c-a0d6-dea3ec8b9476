@@ -11,8 +11,8 @@ import { Roboto } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Mintu Jewellers | Hallmark Gold & Silver Jewellery in Bathinda',
-  description: 'Discover exquisite Hallmark Gold and Silver Jewellery at Mintu Jewellers since 1999. Trending designs, trusted quality, and bespoke creations in Bathinda.',
+  title: "Mintu Jewellers | Hallmark Gold & Silver Jewellery in Bathinda",
+  description: "Discover exquisite Hallmark Gold and Silver Jewellery at Mintu Jewellers since 1999. Trending designs, trusted quality, and bespoke creations in Bathinda.",
   openGraph: {
     "title": "Mintu Jewellers | Hallmark Gold & Silver Jewellery in Bathinda",
     "description": "Discover exquisite Hallmark Gold and Silver Jewellery at Mintu Jewellers since 1999. Trending designs, trusted quality, and bespoke creations in Bathinda.",
